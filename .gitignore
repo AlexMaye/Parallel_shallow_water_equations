@@ -1,0 +1,7 @@
+*.h5
+*.xdmf
+*.o
+*.pvsm
+*.out
+results/
+MPI_Isend/swe
